@@ -17,10 +17,10 @@ const page = `
         <title>Sven van Ewijk</title>
     </heading> 
 <body>
-<h1>Why do comedions love !false?</h1>
+<h1>Why does the chicken cross the road?</h1>
 
 
-<h4>Because it's true!!</h4>
+<h4>Because they grew up playing Frogger on DOS</h4>
 </body>
 </HTML>`;
 
