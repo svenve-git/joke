@@ -3,13 +3,13 @@ const { response } = require('express');
 
 const app = express();
 
-const port = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000;
 
 function onListen () {
     console.log(`listening on port: ${PORT}`);
 }
 
-app.listen(port, onListen);
+app.listen(PORT, onListen);
 
 const page = `
 <HTML>
